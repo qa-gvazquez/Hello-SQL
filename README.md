@@ -28,7 +28,7 @@
 4. [Configuración e instalación](https://youtu.be/OuJerKzV5T0?t=2753)
 5. [Primeros pasos](https://youtu.be/OuJerKzV5T0?t=3282)
 6. [Conexión y cliente SQL](https://youtu.be/OuJerKzV5T0?t=3555)
-7. [Inicialización de datos](https://youtu.be/OuJerKzV5T0?t=4381)
+7. [Inicialización de datos](https://youtu.be/OuJerKzV5T0?t=4381) - 1:13:07
 8. [Consulta de datos: `SELECT`](https://youtu.be/OuJerKzV5T0?t=5618) ➔ [[Código]](./01_Reading/01_select.sql)
 9. [Modificadores: Parte 1](https://youtu.be/OuJerKzV5T0?t=6074)
 	1. [`DISTINCT`](https://youtu.be/OuJerKzV5T0?t=6089) ➔ [[Código]](./01_Reading/02_distinct.sql)
