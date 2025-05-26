@@ -30,8 +30,8 @@
 6. [Conexión y cliente SQL](https://youtu.be/OuJerKzV5T0?t=3555)
 	1. [Soluciona "mysql workbench could not acquire management access for administration"](https://www.youtube.com/watch?v=gwNdzZ_Enok&ab_channel=JorgeEscobar) ➔ Error en Windows - 1:07:43
 8. [Inicialización de datos](https://youtu.be/OuJerKzV5T0?t=4381) - 1:13:07
-9. [Consulta de datos: `SELECT`](https://youtu.be/OuJerKzV5T0?t=5618) ➔ [[Código]](./01_Reading/01_select.sql)
-10. [Modificadores: Parte 1](https://youtu.be/OuJerKzV5T0?t=6074)
+9. [Consulta de datos: `SELECT`](https://youtu.be/OuJerKzV5T0?t=5618) ➔ [[Código]](./01_Reading/01_select.sql) 1:33:40
+10. [Modificadores: Parte 1](https://youtu.be/OuJerKzV5T0?t=6074) - 1:41:16
 	1. [`DISTINCT`](https://youtu.be/OuJerKzV5T0?t=6089) ➔ [[Código]](./01_Reading/02_distinct.sql)
 	2. [`WHERE`](https://youtu.be/OuJerKzV5T0?t=6384) ➔ [[Código]](./01_Reading/03_where.sql)
 	3. [`ORDER BY`](https://youtu.be/OuJerKzV5T0?t=6592) ➔ [[Código]](./01_Reading/04_order_by.sql)
